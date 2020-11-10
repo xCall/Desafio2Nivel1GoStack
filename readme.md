@@ -4,7 +4,7 @@
 
 ## Nesse desafio, você deve criar uma aplicação para treinar o que você aprendeu até agora no ReactJS!
 
-![](/public/assets/print.png)
+<img src"/public/assets/print.png">
 
 
 TABLE OF CONTENTS
