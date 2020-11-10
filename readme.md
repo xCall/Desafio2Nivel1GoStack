@@ -4,7 +4,7 @@
 
 ## Nesse desafio, você deve criar uma aplicação para treinar o que você aprendeu até agora no ReactJS!
 
-![alt text](https://github.com/xCall/Desafio2Nivel1GoStack/../../../../public/assets/Screen%20Capture_select-area_20201109222938.png)
+![alt text](https://github.com/xCall/Desafio2Nivel1GoStack/public/assets/Screen%20Capture_select-area_20201109222938.png)
 
 
 TABLE OF CONTENTS
